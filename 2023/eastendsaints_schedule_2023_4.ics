@@ -1,8 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-// https://add-to-calendar-pro.com // button v2.2.5 //EN
-CALSCALE:GREGORIAN
 METHOD:PUBLISH
+NAME:🏒 EES - Rockcliffe Senior Schedule
+X-WR-CALNAME:🏒 EES - Rockcliffe Senior Schedule
+CALSCALE:GREGORIAN
+X-PUBLISHED-TTL:PT2H
+REFRESH-INTERVAL;VALUE=DURATION:PT2H
 BEGIN:VTIMEZONE
 TZID:America/Toronto
 X-LIC-LOCATION:America/Toronto
